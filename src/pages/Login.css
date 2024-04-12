@@ -1,0 +1,88 @@
+.login-container {
+  width: 300px;
+  margin: auto;
+  margin-right: 14%;
+  margin-top: 85px;
+  padding: 20px;
+  border: 1px solid #0c0c0c;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+ 
+.login-container h2 {
+  margin-bottom: 20px;
+}
+ 
+.login-container label {
+  display: block;
+  margin-bottom: 10px;
+}
+ 
+.login-container input[type="text"],
+.login-container input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+ 
+.login-container button {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+ 
+.login-container button:hover {
+  background-color: #0056b3;
+}
+ 
+.error-message {
+  color: red;
+  margin-top: 10px;
+}
+ 
+ 
+ 
+.password-input {
+  position: relative;
+ 
+}
+ 
+.password-input input[type="password"] {
+  /* width: calc(100% - 40px); */
+ 
+  margin-bottom: 0px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+ 
+.password-input button.toggle-password {
+ 
+ 
+  right: 10px;
+  width: 30px;
+  height: 30px;
+  background: none;
+  border: 10px;
+  cursor: pointer;
+}
+ 
+.password-input button.toggle-password svg {
+  font-size: 1.1rem;
+  color: #333;
+}
+ 
+
+.nav-bar img {
+    background-image:url("https://github.com/Guruprasad-suvarna/Tensai/assets/83869639/509ec4b2-4a2b-4599-98a7-9d23e285770e");
+    width: 50px; /* Adjust the width as needed */
+    height: auto; /* Automatically adjust the height to maintain aspect ratio */
+    bottom: auto;
+   
+  }

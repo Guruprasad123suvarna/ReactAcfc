@@ -1,0 +1,31 @@
+.container2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+ 
+.button2 {
+  margin: 13px;
+  width: 370px;
+  height: 45px;
+  font-size: 12px;
+  background-color: #3879b3;
+  color: #fff;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  justify-content: center;
+}
+.button2:hover {
+  background-color: #005aab;
+}
+ 
+.buttons-container {
+  position: fixed;
+  top:55%;
+  left: 45%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Adjusted to center the buttons horizontally */
+}

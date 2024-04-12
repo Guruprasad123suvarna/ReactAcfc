@@ -1,0 +1,56 @@
+nav {
+  height: 100%;
+ 
+ 
+}
+ 
+.side-nav-button {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #ffc000 !important;
+}
+ 
+.side-nav-button:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 30%;
+}
+ 
+.nav-bar {
+  position: fixed;
+  width: 100%;
+  top: 0px;
+  height: 4rem;
+  z-index: 2;
+ 
+}
+ 
+.user-icon {
+  margin-right: 3px;
+}
+ 
+ 
+.nav-bar img {
+  width: 60px; /* Adjust the width as needed */
+  height: auto; /* Automatically adjust the height to maintain aspect ratio */
+}
+.light-bg{
+  background-color: #43b6c5;
+}
+ 
+.navbar-brand {
+  font-weight: bold;
+}
+.navbar-brand {
+  font-weight: 550;
+  font-family: "Dekko", cursive;
+  font-style: normal;
+  
+
+}
+.nav-b{
+  font-weight:500;
+}

@@ -1,0 +1,24 @@
+.container1 {
+  display: flex;
+  flex-direction: column;
+
+
+}
+
+.button1 {
+  position: fixed; /* Position the button relative to the viewport */
+  top: 270px; /* Adjust top position as needed */
+  left: 260px; /* Adjust right position as needed */
+  z-index: 999; /* Ensure the button is above other elements */
+  width: 370px;
+  height: 45px;
+  font-size: 14px;
+  background-color: #3879b3;
+  color: #fff;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+}
+.button1:hover {
+  background-color: #005aab;
+}
