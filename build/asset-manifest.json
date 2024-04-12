@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Acfc/static/css/main.5d0536e2.css",
-    "main.js": "/Acfc/static/js/main.e542055d.js",
-    "index.html": "/Acfc/index.html",
-    "main.5d0536e2.css.map": "/Acfc/static/css/main.5d0536e2.css.map",
-    "main.e542055d.js.map": "/Acfc/static/js/main.e542055d.js.map"
+    "main.css": "/ReactAcfc/static/css/main.5d0536e2.css",
+    "main.js": "/ReactAcfc/static/js/main.e542055d.js",
+    "index.html": "/ReactAcfc/index.html",
+    "main.5d0536e2.css.map": "/ReactAcfc/static/css/main.5d0536e2.css.map",
+    "main.e542055d.js.map": "/ReactAcfc/static/js/main.e542055d.js.map"
   },
   "entrypoints": [
     "static/css/main.5d0536e2.css",

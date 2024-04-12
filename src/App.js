@@ -75,7 +75,7 @@ import Domainnew from "./pages/Domain Foundation/Domainnew";
 export default function App() {
   return (
 
-    <BrowserRouter>
+    <BrowserRouter basename="/ReactAcfc">
       <Routes>
         <Route path="/" element={<Login />} />
         <Route path="/dashboard" element={<SideNav />}> 
