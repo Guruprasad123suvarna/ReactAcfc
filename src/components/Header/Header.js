@@ -54,7 +54,7 @@ const Navbar = () => {
           <ul className="dropdown-menu dropdown-menu-light">
             <li>
               <a href="/" className="dropdown-item">
-                Log Ou
+                Log Out
               </a>
             </li>
           </ul>
